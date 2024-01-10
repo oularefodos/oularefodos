@@ -1,6 +1,5 @@
 # 💫 About Me:
-## 💻 Tech Stack:
-As a Full-stack Developer, I thrive on the versatility of working across the entire stack. From front-end interfaces that captivate users to robust back-end systems powering seamless functionality, I love bringing it all together. Proficient in technologies like NodeJs, NextJs, ReactJs, Typescript, I'm always eager to explore and incorporate cutting-edge tools into my projects.
+Hello there! I'm a Full-stack Developer who loves the thrill of transforming ideas into reality through code. My passion lies in not just writing lines of code but in crafting digital solutions that align seamlessly with broader business strategies. Whether it's the front-end or the back-end, I enjoy the challenge of creating cohesive and user-friendly applications.
 
 ## 🔗 Connect with Purpose:
 I believe in the power of collaboration and connection. Let's connect if you share a passion for merging code with business strategy, love to explore new technologies, or simply enjoy discussing the ever-evolving landscape of software development.

@@ -1,10 +1,10 @@
 # 💫 About Me:
 Hello there! I'm a Full-stack Developer who loves the thrill of transforming ideas into reality through code. My passion lies in not just writing lines of code but in crafting digital solutions that align seamlessly with broader business strategies. Whether it's the front-end or the back-end, I enjoy the challenge of creating cohesive and user-friendly applications.
 
-## 🔗 Connect with Purpose:
+# 🔗 Connect with Purpose:
 I believe in the power of collaboration and connection. Let's connect if you share a passion for merging code with business strategy, love to explore new technologies, or simply enjoy discussing the ever-evolving landscape of software development.
 
-## 📈 Open for Collaboration:
+# 📈 Open for Collaboration:
 Excited about contributing to impactful projects or collaborating on innovative ideas? I'm open to discussions and always eager to explore new opportunities. Feel free to reach out, and let's create something amazing together!
 
 🔧 Skills Highlights:
@@ -15,7 +15,7 @@ NextJs, NodeJs, ReactJs, Nestjs, Typescript
 Let's code with purpose and make a difference!
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fode-oulare-a967a21bb) 
 
 # 💻 Tech Stack:

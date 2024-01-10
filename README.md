@@ -7,7 +7,7 @@ I believe in the power of collaboration and connection. Let's connect if you sha
 # 📈 Open for Collaboration:
 Excited about contributing to impactful projects or collaborating on innovative ideas? I'm open to discussions and always eager to explore new opportunities. Feel free to reach out, and let's create something amazing together!
 
-🔧 Skills Highlights:
+# 🔧 Skills Highlights:
 
 Full-stack Development
 Business Strategy Integration

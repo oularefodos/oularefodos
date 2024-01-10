@@ -1,5 +1,19 @@
 # 💫 About Me:
-I am a dedicated Full-Stack Developer with a strong passion for technology, a commitment to continuous learning, and a proven track record of delivering innovative solutions. My expertise encompasses the following key skills:<br><br>Test-Driven Development (TDD)<br>Node.js<br>ReactJs<br>Next.js<br>TypeScript<br>JavaScript<br>Docker<br><br>I am adept at leveraging these skills to architect and implement high-quality, scalable solutions in the ever-evolving landscape of web development
+## 💻 Tech Stack:
+As a Full-stack Developer, I thrive on the versatility of working across the entire stack. From front-end interfaces that captivate users to robust back-end systems powering seamless functionality, I love bringing it all together. Proficient in technologies like NodeJs, NextJs, ReactJs, Typescript, I'm always eager to explore and incorporate cutting-edge tools into my projects.
+
+## 🔗 Connect with Purpose:
+I believe in the power of collaboration and connection. Let's connect if you share a passion for merging code with business strategy, love to explore new technologies, or simply enjoy discussing the ever-evolving landscape of software development.
+
+## 📈 Open for Collaboration:
+Excited about contributing to impactful projects or collaborating on innovative ideas? I'm open to discussions and always eager to explore new opportunities. Feel free to reach out, and let's create something amazing together!
+
+🔧 Skills Highlights:
+
+Full-stack Development
+Business Strategy Integration
+NextJs, NodeJs, ReactJs, Nestjs, Typescript
+Let's code with purpose and make a difference!
 
 
 ## 🌐 Socials:

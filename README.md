@@ -1,18 +1,26 @@
-# 💫 About Me:
-Hello there! I'm a Full-stack Developer who loves the thrill of transforming ideas into reality through code. My passion lies in not just writing lines of code but in crafting digital solutions that align seamlessly with broader business strategies. Whether it's the front-end or the back-end, I enjoy the challenge of creating cohesive and user-friendly applications.
+# 💫 About Me  
+Hey there! I'm a **Full-Stack Software Engineer** and **AI-Driven Application Developer**, with a strong foundation in **IT architecture**, specializing in **databases and data management**. I love turning ideas into scalable, high-performance digital solutions.  
 
-# 🔗 Connect with Purpose:
-I believe in the power of collaboration and connection. Let's connect if you share a passion for merging code with business strategy, love to explore new technologies, or simply enjoy discussing the ever-evolving landscape of software development.
+For me, coding isn’t just about writing code—it's about building **strategic, business-aligned applications** that make a real impact. 🚀  
 
-# 📈 Open for Collaboration:
-Excited about contributing to impactful projects or collaborating on innovative ideas? I'm open to discussions and always eager to explore new opportunities. Feel free to reach out, and let's create something amazing together!
+## 🔗 Connect with Purpose  
+I believe **great software is built through collaboration**. Whether you're passionate about:  
+- **Integrating business strategy with technology**  
+- **Exploring cutting-edge AI applications**  
+- **Discussing the ever-evolving world of software development**  
 
-# 🔧 Skills Highlights:
+Let's connect and share insights!  
 
-Full-stack Development
-Business Strategy Integration
-NextJs, NodeJs, ReactJs, Nestjs, Typescript
-Let's code with purpose and make a difference!
+## 📈 Open for Collaboration  
+I’m always excited to contribute to **high-impact projects** and collaborate on **innovative solutions**. If you're working on something exciting or looking for a tech partner, feel free to reach out—let’s build something remarkable together!  
+
+## 🔧 Tech & Skills  
+🔹 **Full-Stack Development:** Next.js, React.js, Node.js, NestJS, TypeScript  
+🔹 **AI-Driven Applications:** LLMs, RAG, Vector Databases, Python, Hugging Face, LangChain  
+🔹 **Database & Data Management**  
+🔹 **Business Strategy Integration**  
+
+💡 **Let's code with purpose and create solutions that matter!**  
 
 
 # 🌐 Socials:

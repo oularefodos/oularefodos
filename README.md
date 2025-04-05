@@ -22,7 +22,7 @@ I’m always excited to contribute to **high-impact projects** and collaborate o
 
 ### **🤖 AI & Data Engineering**  
 - LLMs, RAG, Vector Databases, Agents  
-- Python, Hugging Face, LangChain, Lamaindex, Langraph, smolagent
+- Python, Hugging Face, LangChain, LlamaIndex, Langraph, smolagent
 
 ### **📊 IT Architecture & DevOps**  
 - Scalable software architecture  

@@ -21,8 +21,8 @@ I’m always excited to contribute to **high-impact projects** and collaborate o
 - PostgreSQL, MongoDB  
 
 ### **🤖 AI & Data Engineering**  
-- LLMs, RAG, Vector Databases  
-- Python, Hugging Face, LangChain  
+- LLMs, RAG, Vector Databases, Agents  
+- Python, Hugging Face, LangChain, Lamaindex, Langraph, smolagent
 
 ### **📊 IT Architecture & DevOps**  
 - Scalable software architecture  

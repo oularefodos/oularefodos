@@ -1,5 +1,5 @@
 # 💫 About Me  
-Hey there! I'm a **Full-Stack Software Engineer** and **AI-Driven Application Developer**, with a strong foundation in **IT architecture**, specializing in **databases and data management**. I love turning ideas into scalable, high-performance digital solutions.  
+Hey there! I'm a **Software Engineer** and **AI-Driven Application Developer**, with a strong foundation in **IT architecture**, specializing in **databases and data management**. I love turning ideas into scalable, high-performance digital solutions.  
 
 For me, coding isn’t just about writing code—it's about building **strategic, business-aligned applications** that make a real impact. 🚀  
 
